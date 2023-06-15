@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.dd26721a.css",
-    "main.js": "/static/js/main.16773fd3.js",
+    "main.js": "/static/js/main.665959d0.js",
     "static/media/Logo.gif": "/static/media/Logo.ca996d947247df8e35e8.gif",
     "static/media/concert.webp": "/static/media/concert.38119312a795c5db6246.webp",
     "static/media/ruy.gif": "/static/media/ruy.b353ac1bc7568d73bf64.gif",
@@ -25,10 +25,10 @@
     "static/media/logoMsc.webp": "/static/media/logoMsc.cbe5bb769f2dd97feb7a.webp",
     "index.html": "/index.html",
     "main.dd26721a.css.map": "/static/css/main.dd26721a.css.map",
-    "main.16773fd3.js.map": "/static/js/main.16773fd3.js.map"
+    "main.665959d0.js.map": "/static/js/main.665959d0.js.map"
   },
   "entrypoints": [
     "static/css/main.dd26721a.css",
-    "static/js/main.16773fd3.js"
+    "static/js/main.665959d0.js"
   ]
 }
